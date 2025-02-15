@@ -4,6 +4,6 @@ using namespace std;
 
 int main() {
     cout << "Hello, World!" << endl;
-    cout << "Menambahkan perubahan" << endl;
+    cout << "Melakukan perubahan" << endl;
     return 0;
 }
